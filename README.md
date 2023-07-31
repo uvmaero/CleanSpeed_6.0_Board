@@ -1,1 +1,1 @@
-# AERO_2023_2024_Boards
+# CleanSpeed 6.0 Board
