@@ -5768,7 +5768,7 @@
 
   (footprint "esp32:ESP32-S3-DevKitC" (layer "F.Cu")
     (tstamp a006ee92-27a0-4701-a418-5d39f1a10abc)
-    (at 354.53252 145.9162 -90)
+    (at 358.648 142.748 -90)
     (descr "ESP32-S3 general-purpose development board, based on ESP32-S3-WROOM-1 or ESP32-S3-WROOM-1U,It has all the ESP32-S3 pins exposed and is easy to connect and use.")
     (tags "ESP32-S3")
     (property "Sheetfile" "Micro.kicad_sch")
@@ -8629,7 +8629,7 @@
     )
   )
 
-  (gr_line (start 163.382999 31.852) (end 163.382998 252.577997)
+  (gr_line (start 156.464001 31.496003) (end 156.464 252.222)
     (stroke (width 0.2) (type dot)) (layer "F.SilkS") (tstamp 00c063b0-0205-4507-b1d2-67a37d2bd01b))
   (gr_line (start 156.209998 152.119) (end 156.209999 101.064999)
     (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp c7c04416-189f-4555-98f1-c24b81b0b788))
