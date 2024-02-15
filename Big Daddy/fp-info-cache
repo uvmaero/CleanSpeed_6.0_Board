@@ -1,4 +1,4 @@
-22672434474275848
+22677556698678286
 AERO_Footprints
 1-770966-0
 
@@ -90,6 +90,13 @@ Bell_0ADKP1000-RE
 0
 2
 2
+AERO_Footprints
+Bessie_10x10
+
+
+0
+0
+0
 AERO_Footprints
 CAP_18x25_NICH
 CP, Radial series, Radial, pin pitch=7.50mm, , diameter=18mm, Electrolytic Capacitor
@@ -510,6 +517,13 @@ SOIC127P600X175-8N
 0
 8
 8
+AERO_Footprints
+SOP50P490X110-16N
+MS Package 16-Lead Plastic MSOP_2023
+Integrated Circuit
+0
+16
+16
 AERO_Footprints
 SOP65P640X120-16N
 
@@ -63622,6 +63636,13 @@ Maple Mini
 0
 40
 40
+Module
+Metro Mini
+
+
+0
+28
+28
 Module
 Olimex_MOD-WIFI-ESP8266-DEV
 ESP8266 development board https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-DEV/resources/dimensions-WIFI-ESP8266-DEV.png

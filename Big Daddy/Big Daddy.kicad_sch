@@ -373,6 +373,10 @@
     (stroke (width 0) (type default))
     (uuid c6624915-2c45-4fc8-80c3-99a548451a26)
   )
+  (wire (pts (xy 75.692 97.536) (xy 112.776 97.536))
+    (stroke (width 0) (type default))
+    (uuid cc226717-ae77-4f4a-9247-c53e80ac1e28)
+  )
   (wire (pts (xy 75.692 87.884) (xy 112.776 87.884))
     (stroke (width 0) (type default))
     (uuid cd3c132b-1e86-4731-9b1d-2e67d0ddae4f)
@@ -1010,6 +1014,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid d601b56e-5163-44b4-a442-416b2db5d7a1)
     )
+    (pin "BMS_FAN_PWR_OUT" output (at 112.776 97.536 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 15ea3856-40d2-4bbc-8147-a5c9a3e06770)
+    )
     (instances
       (project "Big Daddy"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "10"))
@@ -1070,6 +1078,10 @@
     (pin "Vicor_In" input (at 56.134 83.312 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid b267638d-598a-4122-851a-54b92d2dfa16)
+    )
+    (pin "PAC_FAN" output (at 75.692 97.536 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 25081cf9-d80c-4abe-93c4-a24e34748ee8)
     )
     (instances
       (project "Big Daddy"
