@@ -5,7 +5,7 @@
   (paper "A")
 
   (title_block
-    (title "DADDY BOARD")
+    (title "MAIN LV BOARD")
     (date "2023-05-15")
     (rev "V 1.1")
     (company "AERO")
@@ -200,10 +200,6 @@
   (wire (pts (xy 240.538 165.1) (xy 21.59 165.1))
     (stroke (width 0) (type default))
     (uuid 605c2898-4494-4799-931f-6eb025e9edfe)
-  )
-  (wire (pts (xy 146.05 104.648) (xy 190.754 104.648))
-    (stroke (width 0) (type default))
-    (uuid 62cf83da-70fe-4159-bf75-0d4dfb9bd5a0)
   )
   (wire (pts (xy 146.05 113.284) (xy 190.754 113.284))
     (stroke (width 0) (type default))
