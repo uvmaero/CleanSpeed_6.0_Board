@@ -1023,12 +1023,27 @@
     (fill (type none))
     (uuid 5316ec14-2b77-4591-b77b-dcea032022fa)
   )
+  (arc (start 137.16 72.39) (mid 158.3065 48.0079) (end 190.5 45.72)
+    (stroke (width 0) (type default) (color 255 10 37 1))
+    (fill (type none))
+    (uuid 83e283d0-3b0a-4981-98b7-9fd702415c3b)
+  )
+  (arc (start 198.12 91.44) (mid 185.7391 70.5301) (end 191.77 46.99)
+    (stroke (width 0) (type default) (color 255 12 14 1))
+    (fill (type none))
+    (uuid bc365f8a-485f-40cf-a17a-5f9caf5d5bad)
+  )
   (rectangle (start 29.718 61.214) (end 91.44 122.682)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid f7279080-5c7d-4d5b-a17d-9319d897ca17)
   )
 
+  (text "Best Practice: Avoid 4 connections at one\njunction. Keep junctions to <=3 connections.\nOffset connections to keep <4 connections.\n(\"T\" connections instead of \"+\" connections)\n--General note for entire schematic --"
+    (at 191.77 43.18 0)
+    (effects (font (size 1.27 1.27) (color 255 0 54 1)) (justify left bottom))
+    (uuid 565fa7ea-9c8c-4467-b2ea-f71a95105a34)
+  )
   (text "*Optional just in case LED Drive does not work" (at 189.484 128.016 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6b8ed1e7-f426-4ad9-a22b-96d14745a89b)
@@ -1445,9 +1460,6 @@
       (project "Big Daddy"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/86dc982f-3c1c-4a60-9b44-a3fbe3fd622a/7a2f50f6-0c99-4e8d-9c2a-8f2f961d2e6d"
           (reference "R24") (unit 1)
-        )
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/86dc982f-3c1c-4a60-9b44-a3fbe3fd622a/edff7200-18c6-4e0c-99f9-a118fc24b63a"
-          (reference "R34") (unit 1)
         )
       )
     )

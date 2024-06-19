@@ -765,6 +765,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3cc50e38-e89f-4e88-9b3b-7e4caa57fe1f)
   )
+  (text "Assuming K2 and K3 are the \"G5V-2-DC12\" version\nof the relay. Specify full part number."
+    (at 31.75 22.86 0)
+    (effects (font (size 1.27 1.27) (color 255 2 4 1)) (justify left bottom))
+    (uuid 5aaea1c3-b724-4aad-a622-bb5df932dbcf)
+  )
   (text "Pulled Low, \nHigh when no fault" (at 149.6568 113.5634 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bec0516f-9815-4d8e-ba32-5bcb5afe996f)

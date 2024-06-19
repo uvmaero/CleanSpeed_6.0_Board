@@ -1549,7 +1549,7 @@
   (symbol (lib_id "power:VDD") (at 138.684 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c4d33a20-808e-44f3-9e5f-460cb5925ed7)
-    (property "Reference" "#PWR050" (at 138.684 68.58 0)
+    (property "Reference" "#PWR040" (at 138.684 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 138.684 59.436 0)
@@ -1564,9 +1564,6 @@
     (pin "1" (uuid 3c6f3d3c-37c4-45d7-a3cf-489ae9657ee3))
     (instances
       (project "Big Daddy"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/86dc982f-3c1c-4a60-9b44-a3fbe3fd622a/7a2f50f6-0c99-4e8d-9c2a-8f2f961d2e6d"
-          (reference "#PWR050") (unit 1)
-        )
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/86dc982f-3c1c-4a60-9b44-a3fbe3fd622a/edff7200-18c6-4e0c-99f9-a118fc24b63a"
           (reference "#PWR040") (unit 1)
         )

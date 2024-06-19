@@ -679,6 +679,11 @@
     (uuid fd93b33a-8e10-453c-a6a8-30149909efa2)
   )
 
+  (text "For the radiator fan, does that have variable\nspeed control? Instead of \"on/off\", maybe a \nmotor speed control? That would help with startup\ncurrent. Consider H-Bridge motor driver. "
+    (at 39.37 54.61 0)
+    (effects (font (size 1.27 1.27) (color 255 8 38 1)) (justify left bottom))
+    (uuid 2bea1467-54a2-47d1-9dc1-6a4e11499072)
+  )
   (text "Brake" (at 137.16 63.5 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 3e1c59a9-3601-40f0-9ada-ab6a97d6f9be)
@@ -686,6 +691,11 @@
   (text "FAN" (at 66.04 64.262 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 58dadefd-36b7-4d31-ab73-8aad1b0af726)
+  )
+  (text "The Brake will switch on / off frequently.\nConsider either PMOS or NMOS \"switch\" instead of relay.\nLow(ish) current, so mosfet switch would work fine. "
+    (at 116.84 50.8 0)
+    (effects (font (size 1.27 1.27) (color 255 0 51 1)) (justify left bottom))
+    (uuid 7c29f365-cdf3-40d0-9826-035c984b09b9)
   )
   (text "Pump" (at 211.836 64.262 0)
     (effects (font (size 3 3)) (justify left bottom))

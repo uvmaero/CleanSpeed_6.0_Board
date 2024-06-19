@@ -470,6 +470,12 @@
     (uuid ff12e2f9-2bc4-430a-938e-1d79526ab0f6)
   )
 
+  (text "General Notes: \n- Suggest putting part numbers for each part in the properties.\nWhen exporting the BOM, all part numbers are there -- then can import to DigiKey or others"
+    (at 21.59 182.88 0)
+    (effects (font (size 1.27 1.27) (color 255 7 28 1)) (justify left bottom))
+    (uuid 9ea8b805-339e-4065-ae03-990ab021e183)
+  )
+
   (global_label "INT_12V" (shape input) (at 92.964 20.828 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8a27f8a2-ed4e-442c-9adf-06afb136d22c)
