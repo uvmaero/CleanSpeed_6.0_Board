@@ -1,0 +1,72 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"C1, C10, C2, C3, C9",5,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+"C11, C6, C7, C8",4,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+C12,1,100uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+C13,1,.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+"C14, C15",2,0.68uF,C_Rect_L18.0mm_W8.0mm_P15.00mm_FKS3_FKP3,,tht
+"C16, C17",2,4700uF,C_Radial_D18.0mm_H35.5mm_P7.50mm,,tht
+"C18, C19, C20",3,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+C4,1,10uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+C5,1,22uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,smt
+D1,1,DESD2CAN2SOQ-7,SOT-23,,smt
+"D10, D11",2,SS16,D_SMA,,smt
+"D2, D7, D8",3,1N4148W,D_SOD-123,,smt
+D3,1,TS4148C RZG,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,smt
+D4,1,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,smt
+"D5, D6",2,1N4148,D_SOD-123,,smt
+D9,1,D_Zener,D_SOD-123,,smt
+"F1, F4, F6",3,2A,Fuseholder_Blade_Mini_Keystone_3568,,tht
+"F10, F9",2,1A,Fuseholder_Blade_Mini_Keystone_3568,,tht
+F11,1,5A,Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open_3d,,tht
+F12,1,1A,Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open_3d,,tht
+F2,1,10A,Fuseholder_Blade_Mini_Keystone_3568,,tht
+"F3, F5",2,5A,Fuseholder_Blade_Mini_Keystone_3568,,tht
+"J1, J2",2,JST-B2B-VERT-2PIN,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,,tht
+J10,1,Conn_01x02,TE_MATE-N-LOK_1-770866-x_1x02_P4.14mm_Vertical,,tht
+J11,1,Conn_01x23,TE_1-770669-1_23pin_Horizontal,,tht
+"J12, J13, J8",3,Conn_01x14,TE_1-776266-1_14pin_Horizontal,,tht
+J3,1,HV+,Hirose_DF63R-2P-3.96DSA_1x02_P3.96mm_Vertical,,tht
+J4,1,HV-,Hirose_DF63R-2P-3.96DSA_1x02_P3.96mm_Vertical,,tht
+J5,1,GND,Hirose_DF63M-1P-3.96DSA_1x01_P3.96mm_Vertical,,tht
+J6,1,HV+,Hirose_DF63M-1P-3.96DSA_1x01_P3.96mm_Vertical,,tht
+J7,1,HV-,Hirose_DF63M-1P-3.96DSA_1x01_P3.96mm_Vertical,,tht
+J9,1,Conn_01x08,TE_1-776280-1_8pin_Horizontal,,tht
+K1,1,T9VV1K15-12S,RELAY_T9VV1K15-12S,,tht
+"K2, K3",2,G5V-2,Relay_DPDT_Omron_G5V-2,,tht
+K4,1,J107,J1071AS3VDC,,tht
+K5,1,G5V-1,Relay_SPDT_Omron_G5V-1,,tht
+L1,1,47uH,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,smt
+L2,1,1uH,L_1008_2520Metric_Pad1.43x2.20mm_HandSolder,,smt
+L3,1,0.15uH,L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,smt
+Q1,1,2N7002,SOT-23,,smt
+Q2,1,BCP53,SOT-223-3_TabPin2,,smt
+"Q3, Q4",2,IXFH34N65X2,TO-247-3_Vertical_GDS,,tht
+Q6,1,MMBT2222,SOT-23,,smt
+"R1, R13, R15, R18, R2, R23, R25, R26, R29, R3, R4, R8, R9",13,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R10, R11",2,60,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R12, R17, R5, R6, R7",5,330,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R19, R21",2,6k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R20, R22",2,2.2k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R24,1,39k,R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,,tht
+R27,1,15k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+"R28, R37, R38, R39",4,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R30,1,0.15,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R31,1,100,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,smt
+"R32, R33",2,10k,R_Axial_Power_L50.0mm_W9.0mm_P60.96mm,,tht
+R34,1,.2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,smt
+"R35, R40",2,1,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,,smt
+R36,1,300,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R41,1,100,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R42,1,2.4k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+R43,1,240,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,smt
+RV1,1,50k TC33x-2-503E,Potentiometer_Bourns_TC33X_Vertical,,smt
+U1,1,MAX33054EASA+T,SOIC127P600X175-8N,,smt
+U10,1,TLP184,MFSOP6-4_4.4x3.6mm_P1.27mm,,smt
+"U11, U12",2,LM5050-1,TSOT-23-6,,smt
+U14,1,LM317_TO-263,TO-263-2,,smt
+"U2, U3",2,ESP32-S3-DevKitC,ESP32-S3-DevKitC,,tht
+U4,1,LT1528CQ#PBF,LT1528CQPBF,,smt
+"U5, U9",2,LTV-817S,SMDIP-4_W9.53mm,,smt
+U6,1,ICM7555xB,SOIC-8_3.9x4.9mm_P1.27mm,,smt
+U7,1,IS31LT3360,SOT-89-5,,smt
+U8,1,Vicor_AERO,vicor-socket-no-cutouts,,tht
