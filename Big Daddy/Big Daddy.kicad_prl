@@ -38,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -64,8 +63,14 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "ffeffef_ffffffff",
     "zone_display_mode": 1
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "Big Daddy.kicad_prl",
